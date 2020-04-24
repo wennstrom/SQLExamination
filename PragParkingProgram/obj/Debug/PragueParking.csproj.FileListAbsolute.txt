@@ -1,0 +1,11 @@
+C:\Users\oskar\Desktop\TentamenDatabasOskarWennström\PragParkingProgram\bin\Debug\dbtentamenow.exe.config
+C:\Users\oskar\Desktop\TentamenDatabasOskarWennström\PragParkingProgram\bin\Debug\dbtentamenow.exe
+C:\Users\oskar\Desktop\TentamenDatabasOskarWennström\PragParkingProgram\bin\Debug\dbtentamenow.pdb
+C:\Users\oskar\Desktop\TentamenDatabasOskarWennström\PragParkingProgram\bin\Debug\EntityFramework.dll
+C:\Users\oskar\Desktop\TentamenDatabasOskarWennström\PragParkingProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oskar\Desktop\TentamenDatabasOskarWennström\PragParkingProgram\bin\Debug\EntityFramework.xml
+C:\Users\oskar\Desktop\TentamenDatabasOskarWennström\PragParkingProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oskar\Desktop\TentamenDatabasOskarWennström\PragParkingProgram\obj\Debug\PragueParking.csprojAssemblyReference.cache
+C:\Users\oskar\Desktop\TentamenDatabasOskarWennström\PragParkingProgram\obj\Debug\PragueParking.csproj.CopyComplete
+C:\Users\oskar\Desktop\TentamenDatabasOskarWennström\PragParkingProgram\obj\Debug\dbtentamenow.exe
+C:\Users\oskar\Desktop\TentamenDatabasOskarWennström\PragParkingProgram\obj\Debug\dbtentamenow.pdb

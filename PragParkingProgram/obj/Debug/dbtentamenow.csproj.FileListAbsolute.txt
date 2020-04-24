@@ -1,0 +1,13 @@
+C:\Users\oskar\source\repos\dbtentamenow\bin\Debug\dbtentamenow.exe.config
+C:\Users\oskar\source\repos\dbtentamenow\bin\Debug\dbtentamenow.exe
+C:\Users\oskar\source\repos\dbtentamenow\bin\Debug\dbtentamenow.pdb
+C:\Users\oskar\source\repos\dbtentamenow\obj\Debug\dbtentamenow.exe
+C:\Users\oskar\source\repos\dbtentamenow\obj\Debug\dbtentamenow.pdb
+C:\Users\oskar\source\repos\dbtentamenow\obj\Debug\dbtentamenow.csprojAssemblyReference.cache
+C:\Users\oskar\source\repos\dbtentamenow\bin\Debug\PragueParking.mdf
+C:\Users\oskar\source\repos\dbtentamenow\bin\Debug\PragueParking_log.ldf
+C:\Users\oskar\source\repos\dbtentamenow\bin\Debug\EntityFramework.dll
+C:\Users\oskar\source\repos\dbtentamenow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oskar\source\repos\dbtentamenow\bin\Debug\EntityFramework.xml
+C:\Users\oskar\source\repos\dbtentamenow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oskar\source\repos\dbtentamenow\obj\Debug\dbtentamenow.csproj.CopyComplete
